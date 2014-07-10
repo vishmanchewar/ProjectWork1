@@ -1,0 +1,8 @@
+import java.lang.*;
+public class First
+{
+public static void main(String arg[])// main method
+{
+System.out.println("Welcome To Java World");// stmt to print output as text
+}
+}
